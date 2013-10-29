@@ -1,0 +1,7 @@
+D:\Work\NRI.CoinCharger\NRI.CoinCharger\bin\Debug\NRI.CoinCharger.dll
+D:\Work\NRI.CoinCharger\NRI.CoinCharger\bin\Debug\NRI.CoinCharger.pdb
+D:\Work\NRI.CoinCharger\NRI.CoinCharger\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\NRI.CoinCharger\NRI.CoinCharger\obj\Debug\NRI.CoinCharger.dll
+D:\Work\NRI.CoinCharger\NRI.CoinCharger\obj\Debug\NRI.CoinCharger.pdb
+D:\Work\NRI.CoinCharger\NRI.CoinCharger\bin\Debug\NriHidAPI.dll
+D:\Work\NRI.CoinCharger\NRI.CoinCharger\bin\Debug\PaymentManager.dll
