@@ -1,8 +1,0 @@
-D:\Work\NRI.CoinCharger\NRI.CoinCharger\bin\Release\NriHidAPI.dll
-D:\Work\NRI.CoinCharger\NRI.CoinCharger\bin\Release\PaymentManager.dll
-D:\Work\NRI.CoinCharger\NRI.CoinCharger\bin\Release\PaymentManager.ini
-D:\Work\NRI.CoinCharger\NRI.CoinCharger\bin\Release\NRI.CoinCharger.dll
-D:\Work\NRI.CoinCharger\NRI.CoinCharger\bin\Release\NRI.CoinCharger.pdb
-D:\Work\NRI.CoinCharger\NRI.CoinCharger\obj\Release\NRI.CoinCharger.dll
-D:\Work\NRI.CoinCharger\NRI.CoinCharger\obj\Release\NRI.CoinCharger.pdb
-D:\Work\NRI.CoinCharger\NRI.CoinCharger\obj\Release\NRI.CoinChanger.csprojResolveAssemblyReference.cache
